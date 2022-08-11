@@ -1,0 +1,12 @@
+{
+  "name": "carv",
+  "version": "1.0.0",
+  "main": "main.ts",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "esm": "^3.2.25"
+  }
+}
